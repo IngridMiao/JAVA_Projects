@@ -6,3 +6,4 @@ The problem we found is based on random campus interview, which is a part of wor
 ### Paperless Career Fair
 The topic we choosed is based on what I have experienced in the career fair.
 In addition, in ZeroPaper file, there is a readme, and it is better to take a look before jumping into the code.
+To be further, such project can be improved from local excel to cloud excel, which can be better for storing and usage. Also, if we can simulate the system on visual machine, the project would be more complete.
